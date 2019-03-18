@@ -34,5 +34,5 @@
 e.g:
 > user@pc:~$ rv32decoder 0x00000013 0xc0010113 0x001281b3 0x00008063 0xffdff0ef
 
-![image](https://github.com/AlexYzhov/rv32dec/blob/master/example.jpg)
+![image](https://github.com/AlexYzhov/rv32dec/blob/master/example.png)
 
